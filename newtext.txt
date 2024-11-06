@@ -1,5 +1,8 @@
 red
 green
+COLORS
 blue
 yellow
+white
 teal
+Yellow
